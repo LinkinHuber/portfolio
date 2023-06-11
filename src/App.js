@@ -1,10 +1,10 @@
-import { useEffect, useState } from "react"
-import Portfolio from "./Pages/Portfolio"
-import About from "./Pages/About";
-import Contact from "./Pages/Contact";
-import Resume from "./Pages/Resume"
+import { useEffect, useState } from "react";
+import About from "./pages/About";
+import Contact from "./pages/Contact";
+import Resume from "./pages/Resume";
+import Portfolio from "./pages/Portfolio";
 import Header from "./components/Header";
-import Footer from "./components/Footer"
+import Footer from "./components/Footer";
 
 
 function App() {

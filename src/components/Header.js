@@ -20,7 +20,7 @@ export default function Header({prefix}) {
 
       <div className="links">
         
-        <a href={`${prefix}/`} id="name">Peter Yockey</a>
+        <a href={`${prefix}/`} id="name">Linkin Huber</a>
         <a href={`${prefix}/about`} className="navs">About</a>
         <a href={`${prefix}/portfolio`} className="navs">Portfolio</a>
         <a href={`${prefix}/contact`} className="navs">Contact</a>
