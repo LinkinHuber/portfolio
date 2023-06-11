@@ -2,9 +2,9 @@ import { useEffect, useState } from "react"
 import Portfolio from "./Pages/Portfolio"
 import About from "./Pages/About";
 import Contact from "./Pages/Contact";
+import Resume from "./Pages/Resume"
 import Header from "./components/Header";
 import Footer from "./components/Footer"
-import Resume from "./Pages/Resume"
 
 
 function App() {
