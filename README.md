@@ -40,12 +40,10 @@
 - THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 
 ## Link to deployed application
-- 
+- https://react-portfolio-me.herokuapp.com/
 
 ## Screenshots of webpage
-![Screenshot of home page]()
-![Screenshot of home page]()
-![Screenshot of home page]()
+![Screenshot of home page](./src/assets/Screenshot%202023-06-11%20123310.png)
 
 ## Questions?
   - If you have any additional questions please feel free to reach out to me!
